@@ -1,0 +1,14 @@
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\obj\Debug\net8.0\FilaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\obj\Debug\net8.0\FilaEstatica.AssemblyInfoInputs.cache
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\obj\Debug\net8.0\FilaEstatica.AssemblyInfo.cs
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\obj\Debug\net8.0\FilaEstatica.csproj.CoreCompileInputs.cache
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\bin\Debug\net8.0\FilaEstatica.exe
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\bin\Debug\net8.0\FilaEstatica.deps.json
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\bin\Debug\net8.0\FilaEstatica.runtimeconfig.json
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\bin\Debug\net8.0\FilaEstatica.dll
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\bin\Debug\net8.0\FilaEstatica.pdb
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\obj\Debug\net8.0\FilaEstatica.dll
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\obj\Debug\net8.0\refint\FilaEstatica.dll
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\obj\Debug\net8.0\FilaEstatica.pdb
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\obj\Debug\net8.0\FilaEstatica.genruntimeconfig.cache
+C:\Users\F177-LAB04-PC01\Desktop\FilaEstatica\FilaEstatica\obj\Debug\net8.0\ref\FilaEstatica.dll
